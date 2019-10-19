@@ -32,4 +32,4 @@ The App will collect data in ten second chunks and add the beats per minute to a
 
 All you have to do is open the HeartRateMonitor App and then hold the tip of your index finger over the camera lens of your phone. The entire camera preview image should be red with a lighter area where the tip of your finger is touching. Do not press too hard or you will cut off circulation which will result in an inaccurate reading.  
 
-After a second or two, you should see the Android icon on the middle of the screen start to flash red when it senses a heart beat. After ten seconds it will compute your heart rate and update the number next to the Android icon. It'll take between ten and thirty seconds to get an accurate heart rate.
+After a second or two, you should see the Android icon on the middle of the screen start to flash red when it senses a heart beat. After ten seconds it will compute your heart rate and update the number next to the Android icon. It'll take between ten to thirty seconds to get an accurate heart rate.It provides with the actual state of a person either he/she is fit or not.
